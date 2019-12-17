@@ -1,4 +1,4 @@
 # sz-test1
 
 1. Keith Williams
-Clara Mwenda
+2. Clara Mwenda
